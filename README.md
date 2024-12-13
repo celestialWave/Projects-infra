@@ -157,5 +157,10 @@ This project follows a **feature-sliced design (FSD)** architecture, which empha
 By adhering to this structure, all developers and interns can collaborate effectively, ensuring a clean and scalable codebase.
 
 ---
+## Notes
 
-**Important Note**: This is only an example for file structure and we are using it in our current projects.
+- This structure is **only an example** and should be adapted based on project requirements.
+- Ensure all code is documented and follows established coding standards.
+- Use version control effectively to track changes and maintain code quality.
+
+
